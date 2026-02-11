@@ -1,4 +1,4 @@
-# factura-rapida-privacy[privacy.html](https://github.com/user-attachments/files/25239697/privacy.html)
+[privacy.html](https://github.com/user-attachments/files/25239697/privacy.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
